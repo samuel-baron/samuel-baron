@@ -61,8 +61,9 @@ Ainda não entrei oficialmente no mundo **Open Source**, mas estou ansioso para 
 ## 💬 Contato
 Se quiser trocar ideias ou tirar dúvidas, me envie uma mensagem!  
 
-📧 **E-mail:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)  
-💼 **LinkedIn:** [Samuel Baron](https://www.linkedin.com/in/seu-perfil)
+💎 **Portifolio:** [samuel-baron.github.io](mailto:https://samuel-baron.github.io)  
+📧 **E-mail:** [sabashi127@gmail.com](mailto:sabashi127@gmail.com)  
+💼 **LinkedIn:** [Samuel Baron](https://www.linkedin.com/in/samuelbds)
 
 ---
 
