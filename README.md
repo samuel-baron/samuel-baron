@@ -3,7 +3,7 @@
 ---
 
 ## 🌟 Sobre Mim
-Sou desenvolvedor com foco em **backend**, **DevOps** e **sistemas**. Possuo experiência em **APIs** e uma curiosidade constante para explorar e aprender novas tecnologias. Atualmente, integro a equipe da **Customax Ltda** e gosto de me desafiar criando ferramentas que facilitem o uso de áreas técnicas específicas.
+Sou desenvolvedor com foco em **backend**, **DevOps** e **Sistemas**. Possuo experiência em **APIs** e uma curiosidade constante para explorar e aprender novas tecnologias. Atualmente, integro a equipe da **Customax Ltda** e gosto de me desafiar criando ferramentas que facilitem o uso de áreas técnicas específicas.
 
 ---
 
