@@ -42,16 +42,13 @@ Sou desenvolvedor com foco em **backend**, **DevOps** e **sistemas**. Possuo exp
 
 ## 🎮 Hobbies e Interesses
 - 📸 **Fotografia & Videografia**
-- 🇯🇵 **Aprendizado de Japonês**
+- 🗺️ **Aprendizado de Línguas**
 - 🎮 **Jogos**
 
 ---
 
 ## 💬 Contato
 Se quiser trocar ideias ou tirar dúvidas, envie-me uma mensagem!  
-
-• **Portfólio:**  
-[samuel-baron.github.io](https://samuel-baron.github.io)  
   
 • **E-mail:**  
 [sabashi127@gmail.com](mailto:sabashi127@gmail.com)  
